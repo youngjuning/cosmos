@@ -9,7 +9,7 @@ hero:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
 
-```tsx
+```tsx | pure
 /**
  * inline: true
  * hideActions: ["EXTERNAL"]
