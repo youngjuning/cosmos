@@ -19,5 +19,10 @@ import './index.css';
 import data from '../naotu/洛竹宇宙.json';
 import KityMinder from 'kityminder-react';
 
-export default () => <KityMinder data={data} />;
+export default () => (
+  <KityMinder
+    data={data}
+    link="https://naotu.baidu.com/file/9edcff888e546a56ea5169c19a924485?token=e069ac3f774b55bb"
+  />
+);
 ```
