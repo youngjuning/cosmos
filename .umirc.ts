@@ -16,7 +16,7 @@ export default defineConfig({
     null,
     {
       title: 'GitHub',
-      path: 'https://github.com/youngjuning/daily.io',
+      path: 'https://github.com/youngjuning/daily',
     },
   ],
   // more config: https://d.umijs.org/config
