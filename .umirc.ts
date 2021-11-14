@@ -1,14 +1,14 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: '洛竹的日常',
+  title: '洛竹宇宙',
   favicon: 'https://cdn.jsdelivr.net/gh/youngjuning/images/202111141721732.png',
   logo: 'https://cdn.jsdelivr.net/gh/youngjuning/images/202111141721732.png',
   mode: 'site',
   hash: true,
   exportStatic: {},
-  base: '/daily',
-  publicPath: '/daily/',
+  base: '/cosmos',
+  publicPath: '/cosmos/',
   sitemap: {
     hostname: 'https://youngjuning.js.org',
   },
@@ -16,7 +16,7 @@ export default defineConfig({
     null,
     {
       title: 'GitHub',
-      path: 'https://github.com/youngjuning/daily',
+      path: 'https://github.com/youngjuning/cosmos',
     },
   ],
   // more config: https://d.umijs.org/config

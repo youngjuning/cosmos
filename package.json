@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "daily",
+  "name": "cosmos",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/youngjuning/daily.git",
+    "url": "git+https://github.com/youngjuning/cosmos.git",
     "branch": "main"
   },
   "gitHooks": {

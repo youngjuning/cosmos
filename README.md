@@ -1,4 +1,4 @@
-# Daily
+# 洛竹宇宙
 
 Study hard and make progress every day.
 
