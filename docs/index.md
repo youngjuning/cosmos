@@ -1,8 +1,9 @@
 ---
 title: 首页
 hero:
+  image: https://cdn.jsdelivr.net/gh/youngjuning/images/202111150030039.png
   title: 洛竹宇宙
-  desc: 学而不思则罔，思而不学则殆。
+  desc: May the Force be with you.
   actions:
     - text: 星际航行
       link: /computer-science
@@ -12,11 +13,10 @@ footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](http
 ```tsx
 /**
  * inline: true
- * hideActions: ["EXTERNAL"]
  */
 import React from 'react';
 import './index.css';
-import data from '../naotu/数组的方法.json';
+import data from '../naotu/洛竹宇宙.json';
 import KityMinder from 'kityminder-react';
 
 export default () => <KityMinder data={data} />;

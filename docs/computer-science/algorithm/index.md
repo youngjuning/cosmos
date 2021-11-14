@@ -1,7 +1,7 @@
 ---
-title: 算法导论
+title: 导论
 group:
-  order: 3
+  order: 6
   title: 算法
 order: 1
 ---

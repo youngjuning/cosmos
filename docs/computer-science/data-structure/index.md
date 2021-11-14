@@ -1,6 +1,6 @@
 ---
-title: 数据结构导论
+title: 导论
 group:
-  order: 2
+  order: 5
   title: 数据结构
 ---

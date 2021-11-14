@@ -12,6 +12,10 @@ sidemenu: false
 
 - [LeetCode0：学习算法必备知识：时间复杂度与空间复杂度的计算](https://cloud.tencent.com/developer/article/1769988)
 
+### 其他
+
+- [编程经典书籍：龙书、虎书、鲸书、魔法书……指的都是哪些？](https://cloud.tencent.com/developer/news/213107)
+
 ## 前端
 
 ### 知识体系
