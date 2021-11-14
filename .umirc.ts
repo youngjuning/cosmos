@@ -13,5 +13,12 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://youngjuning.js.org',
   },
+  navs: [
+    null,
+    {
+      title: 'GitHub',
+      path: 'https://github.com/youngjuning/daily.io',
+    },
+  ],
   // more config: https://d.umijs.org/config
 });
