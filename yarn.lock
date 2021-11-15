@@ -2576,9 +2576,9 @@ kityminder-core@^1.4.50:
     seajs "^2.3.0"
 
 kityminder-react@^1.1.0:
-  version "1.0.1"
-  resolved "https://registry.npmmirror.com/kityminder-react/download/kityminder-react-1.0.1.tgz?cache=0&sync_timestamp=1636900526109&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fkityminder-react%2Fdownload%2Fkityminder-react-1.0.1.tgz#f8966714f4c9203b1f17c5c4a1f86112cd3a7ffb"
-  integrity sha512-cjiV0Sl901XX/zYFkbYxZ6GUNIxqXwP4k/kKnvWIKBWGQV9iuh0bc4oXlgosGaY2qxWCZehXkBBBLpbAiO1VaA==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/kityminder-react/-/kityminder-react-1.1.0.tgz#89e906512562d1df665c6e3dd7e3becbaecd2bb0"
+  integrity sha512-7NyDGpd1XcASkxmmZRc0QJzbDHI3bT64Qa4f4iuV650IO/O92WdKJEh8xSGdpHGSkg588FEKTZCUt+NBOOuyQQ==
   dependencies:
     kity "^2.0.4"
     kityminder-core "^1.4.50"
