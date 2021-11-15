@@ -1,6 +1,6 @@
 # 洛竹宇宙
 
-Study hard and make progress every day.
+May the Forth be with you.
 
 ## Quotes
 
@@ -14,23 +14,11 @@ Study hard and make progress every day.
 Install dependencies,
 
 ```bash
-$ npm i
+$ yarn intall
 ```
 
 Start the dev server,
 
 ```bash
-$ npm start
-```
-
-Build documentation,
-
-```bash
-$ npm run docs:build
-```
-
-Build library via `father-build`,
-
-```bash
-$ npm run build
+$ yarn start
 ```
