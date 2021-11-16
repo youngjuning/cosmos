@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>父应用</title>
+</head>
+<body>
+  <h1 id="main"></h1>
+  <iframe id='child' src="./iframe.html" frameborder="0"></iframe>
+  <button class="ob" onclick="c()">来自父应用的消息</button>
+  <script>
+    const childWindow=document.getElementById("child").contentWindow;
+    window.addEventListener("message", (listener) => {
+      if (listener.type === 'message') {
+        document.getElementById("main").innerText= listener.data;
+      }
+    })
+    function c() {
+      childWindow.postMessage("来自父应用的消息")
+    }
+  </script>
+</body>
+</html>
