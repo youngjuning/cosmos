@@ -19,9 +19,9 @@ export default defineConfig({
       path: 'https://github.com/youngjuning/cosmos',
     },
     {
-      title: '洛竹的博客',
-      path: 'https://youngjuning.js.org/'
-    }
+      title: '博客',
+      path: 'https://youngjuning.js.org/',
+    },
   ],
   // more config: https://d.umijs.org/config
 });
