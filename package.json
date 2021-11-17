@@ -17,11 +17,12 @@
     "pre-commit": "lint-staged"
   },
   "lint-staged": {
-    "*.{js,jsx,less,md,json}": [
-      "prettier --write"
+    "pre-commit": "lint-staged",
+    "**/*.{js,jsx,ts,tsx}": [
+      "eslint --fix"
     ],
-    "*.ts?(x)": [
-      "prettier --parser=typescript --write"
+    "**/*.{md,json}": [
+      "prettier --write"
     ]
   },
   "dependencies": {
@@ -29,10 +30,14 @@
     "react": "^16.12.0 || ^17.0.0"
   },
   "devDependencies": {
+    "@luozhu/eslint-config-base": "^1.8.4",
+    "@luozhu/prettier-config": "^1.2.0",
+    "commitizen": "^4.2.4",
     "dumi": "^1.0.17",
+    "eslint": "^8.2.0",
     "gh-pages": "^3.0.0",
-    "lint-staged": "^10.0.7",
-    "prettier": "^2.2.1",
+    "lint-staged": "^12.0.2",
+    "prettier": "^2.4.1",
     "yorkie": "^2.0.0"
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: 千里之行
-order: 1
+order: 0
 nav:
   order: 2
   title: 力扣题解
@@ -9,6 +9,7 @@ nav:
 ## 工具
 
 - [vscode-leetcode](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode)：在 vscode 中刷题的利器
+- [vscode CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics)：计算代码圈复杂度的 vscode 插件
 - [dumi](https://d.umijs.org/zh-CN)：记录题解和解题思路的文档工具，本站就是使用 dumi 搭建
 - [百度脑图](https://naotu.baidu.com)：思维导图可以帮助梳理知识结构
 - [draw.io](https://draw.io)：画图工具，帮助梳理解题思路
