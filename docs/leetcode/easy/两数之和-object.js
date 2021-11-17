@@ -10,17 +10,15 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function (nums, target) {
-  let hash = {};
-
+const twoSum = function (nums, target) {
+  const hash = {};
   for (let i = 0; i < nums.length; i++) {
     const n = nums[i];
-    if (hash[target - n]) {
+    if (hash[target - n] !== undefined) {
       return [i, hash[target - n]];
     }
     hash[n] = i;
   }
   return [];
 };
-twoSum([3, 4, 5], 7);
 // @lc code=end

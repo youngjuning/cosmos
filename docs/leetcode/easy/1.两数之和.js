@@ -11,13 +11,15 @@
  * @return {number[]}
  */
 const twoSum = function (nums, target) {
+  const map = new Map();
   for (let i = 0; i < nums.length; i++) {
     const n = nums[i];
-    const j = nums.findIndex(item => n + item === target);
-    if (i !== j && j !== -1) {
-      return [i, j];
+    if (map.has(target - n)) {
+      return [i, map.get(target - n)];
     }
+    map.set(n, i);
   }
   return [];
 };
 // @lc code=end
+twoSum([1, 2, 3, 6], 5);
