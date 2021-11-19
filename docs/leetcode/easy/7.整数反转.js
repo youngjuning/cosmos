@@ -20,5 +20,5 @@ const reverse = function (x) {
   }
   return res;
 };
-reverse(12345);
 // @lc code=end
+reverse(12345);
