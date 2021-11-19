@@ -13,12 +13,12 @@ const isPalindrome = function (x) {
   if (x < 0) {
     return false;
   }
-  let y = x;
-  let z = 0;
-  while (y) {
-    z = z * 10 + (y % 10);
-    y = ~~(y / 10);
+  let temp = x;
+  let res = 0;
+  while (temp) {
+    res = res * 10 + (temp % 10);
+    temp = ~~(temp / 10);
   }
-  return x === z;
+  return x === res;
 };
 // @lc code=end
