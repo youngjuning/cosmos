@@ -35,3 +35,23 @@ nav:
 
 - [左神（左程云）算法大牛刷爆 LeetCode](https://www.bilibili.com/video/BV1q34y1S7G1)：本套教程由左神（左程云老师）熬夜 1 个月重磅打造，强力推出，适合所有志在大厂的小伙伴。
 - [覃超的算法训练营](https://u.geekbang.org/subject/algorithm/1000343)：利益不相关，优质收费训练营，根据自己经济情况考虑。
+
+## 题单
+
+### 热题
+
+- [🧡 LeetCode 精选算法 200 题](https://leetcode-cn.com/problem-list/qg88wci/)
+- [👨‍💻 LeetCode 精选 TOP 面试题](https://leetcode-cn.com/problem-list/2ckc81c/)
+- [🔥 LeetCode 热题 HOT 100](https://leetcode-cn.com/problem-list/2cktkvj/)
+
+### 专项
+
+- [动态规划](https://leetcode-cn.com/study-plan/dynamic-programming/)
+
+### 公司
+
+- [🐧 腾讯精选练习 50 题](https://leetcode-cn.com/problem-list/ex0k24j/)
+
+## 推荐阅读
+
+- [LeetCode: OJ 刷题顺序](https://blog.51cto.com/u_15351682/3750365)
