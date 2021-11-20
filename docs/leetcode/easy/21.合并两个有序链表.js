@@ -24,7 +24,7 @@ const mergeTwoLists = function (l1, l2) {
     l1.next = mergeTwoLists(l1.next, l2);
     return l1;
   }
-  l2.next = mergeTwoLists(l1, l2.next);
+  l2.next = mergeTwoLists(l2.next, l1);
   return l2;
 };
 
