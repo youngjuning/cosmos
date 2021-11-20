@@ -1,5 +1,5 @@
 ---
-title: 千里之行
+title: 千里之行，始于足下
 order: 0
 nav:
   order: 2
@@ -38,19 +38,29 @@ nav:
 
 ## 题单
 
+### LeetBook
+
+- [链表](https://leetcode-cn.com/leetbook/detail/linked-list/)
+- [二分查找](https://leetcode-cn.com/leetbook/detail/binary-search/)
+- [贪心算法](https://leetcode-cn.com/leetbook/detail/greedy/)
+
 ### 热题
 
 - [🧡 LeetCode 精选算法 200 题](https://leetcode-cn.com/problem-list/qg88wci/)
 - [👨‍💻 LeetCode 精选 TOP 面试题](https://leetcode-cn.com/problem-list/2ckc81c/)
 - [🔥 LeetCode 热题 HOT 100](https://leetcode-cn.com/problem-list/2cktkvj/)
 
-### 专项
+### 学习计划
 
+- [数据结构](https://leetcode-cn.com/study-plan/data-structures/)
+- [算法](https://leetcode-cn.com/study-plan/algorithms/)
 - [动态规划](https://leetcode-cn.com/study-plan/dynamic-programming/)
 
 ### 公司
 
 - [🐧 腾讯精选练习 50 题](https://leetcode-cn.com/problem-list/ex0k24j/)
+- [字节跳动](https://leetcode-cn.com/company/bytedance/problemset/)
+- [Shopee 虾皮](https://leetcode-cn.com/company/shopee/problemset/)
 
 ## 推荐阅读
 
