@@ -4,5 +4,6 @@ module.exports = {
   rules: {
     'func-names': 0,
     'no-bitwise': ['error', { allow: ['~'] }],
+    'no-param-reassign': 0,
   },
 };
