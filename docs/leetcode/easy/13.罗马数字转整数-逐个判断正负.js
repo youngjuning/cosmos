@@ -19,14 +19,14 @@ const symbols = {
  * @return {number}
  */
 const romanToInt = function (s) {
-  let value = 0;
+  let res = 0;
   for (let i = 0; i < s.length; i++) {
     if (symbols[s[i]] < symbols[s[i + 1]]) {
-      value -= symbols[s[i]];
+      res = res -= symbols[s[i]];
     } else {
-      value += symbols[s[i]];
+      res = res += symbols[s[i]];
     }
   }
-  return value;
+  return res;
 };
 // @lc code=end
