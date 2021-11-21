@@ -1,0 +1,610 @@
+{
+  "root": {
+    "data": { "id": "08971bf45869", "created": 1566872279, "text": "算法" },
+    "children": [
+      {
+        "data": {
+          "id": "bwk1z5pqflk0",
+          "created": 1566872587775,
+          "text": "树",
+          "layout_mind_offset": { "x": -455.2499992363155, "y": 52.49999467283499 },
+          "expandState": "expand"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk1zfkrw2o0",
+              "created": 1566872609243,
+              "text": "二叉树",
+              "layout_left_offset": { "x": -243.7499980069697, "y": 12.250000279396772 }
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk204bp3z40",
+                  "created": 1566872663114,
+                  "text": "遍历",
+                  "layout_left_offset": { "x": -250.5000001862644, "y": 13.999999552965164 }
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk206qi4o00",
+                      "created": 1566872668363,
+                      "text": "DFS",
+                      "layout_left_offset": { "x": -208, "y": -1 }
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bwk22da4qs00",
+                      "created": 1566872839339,
+                      "text": "BFS",
+                      "layout_left_offset": { "x": -208.74999688938271, "y": -4.999999925494194 }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "bwk20cdfmcg0",
+                  "created": 1566872680633,
+                  "text": "二叉搜索树",
+                  "layout_left_offset": { "x": -262, "y": -6 }
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk20czb3iw0",
+                  "created": 1566872681956,
+                  "text": "平衡二叉树",
+                  "layout_left_offset": { "x": -257.0000000745058, "y": -28.24999975785613 }
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk22nlm3xk0",
+                      "created": 1566872861801,
+                      "text": "AVL 树",
+                      "layout_left_offset": { "x": -241.24999640509486, "y": 2.499999962747097 }
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bwk22oa74mw0",
+                      "created": 1566872863287,
+                      "text": "红黑树",
+                      "layout_left_offset": { "x": -243.74999636784185, "y": -6.249999906867799 }
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "bwk20emjv5c0",
+                  "created": 1566872685538,
+                  "text": "剪枝",
+                  "layout_left_offset": { "x": -249.25000005587947, "y": -54.74999927356839 }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "bwk1zg599kw0",
+              "created": 1566872610482,
+              "text": "字典树",
+              "layout_left_offset": { "x": -251.49999787658476, "y": -59.499998025596256 }
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk1zn0j6sg0",
+                  "created": 1566872625434,
+                  "text": "空间换时间",
+                  "layout_left_offset": { "x": -250.75000031664956, "y": 10.75000024214387 }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk23l2xiqo0",
+          "created": 1566872934682,
+          "text": "图",
+          "layout_mind_offset": { "x": -699.9999959021809, "y": 36.999996721744765 }
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk23n10ft40",
+              "created": 1566872938919,
+              "text": "遍历时需要记录已经访问过的结点",
+              "layout_left_offset": { "x": -88.50000115483999, "y": -14.499999739229565 }
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk2449eh280",
+          "created": 1566872976432,
+          "text": "递归、分治",
+          "layout_mind_offset": { "x": -613.7499989010396, "y": 31.499992512166443 }
+        },
+        "children": [
+          {
+            "data": { "id": "bwk24suk5go0", "created": 1566873029954, "text": "盗梦空间" },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk24tjzb8g0", "created": 1566873031491, "text": "终止状态" },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk24tvrjns0", "created": 1566873032204, "text": "本层处理" },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk24u4pmmg0", "created": 1566873032745, "text": "Drill Down " },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk24vopxcw0", "created": 1566873036131, "text": "本层状态清理 " },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk25kozcqg0",
+          "created": 1566873090567,
+          "text": "二分查找",
+          "layout_mind_offset": { "x": -657.4999902024866, "y": 18.74999972060317 }
+        },
+        "children": [
+          {
+            "data": { "id": "bwk25vr6oig0", "created": 1566873114646, "text": "有序" },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk25wetpsw0", "created": 1566873116074, "text": "有界" },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bwk25wn61ps0",
+              "created": 1566873116578,
+              "text": "能够通过索引随机访问"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk27don45s0",
+          "created": 1566873232037,
+          "text": "贪心算法",
+          "layout_mind_offset": { "x": -636.2499911151826, "y": 31.999998658895436 }
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk28h2269s0",
+              "created": 1566873317744,
+              "text": "判断能不能贪心",
+              "layout_left_offset": { "x": 12.499999813735485, "y": -16.24999975785613 }
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bwk28hh4bdc0",
+              "created": 1566873318653,
+              "text": "弱化版的动态规划",
+              "layout_left_offset": { "x": 8.74999986961484, "y": -13.749999795109034 }
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk28ufbsfc0",
+          "created": 1566873346843,
+          "text": "动态规划",
+          "layout_mind_offset": { "x": -774.9999884516, "y": 9.999999850988758 }
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk295ebvmo0",
+              "created": 1566873370728,
+              "text": "简单版本是递归加缓存"
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bwk295qbog80",
+              "created": 1566873371453,
+              "text": "高级版本是递推公式 "
+            },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk29638tmw0", "created": 1566873372234, "text": "状态的定义" },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk29y69yqw0",
+                  "created": 1566873433367,
+                  "text": "有些场景需要套用模板"
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": { "id": "bwk296e580w0", "created": 1566873372893, "text": "最优子结构" },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk296pf0i80", "created": 1566873373575, "text": "状态转移方程" },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk2ac0zrg80",
+          "created": 1566873463523,
+          "text": "位运算",
+          "layout_mind_offset": { "x": -701.2499895505607, "y": 38.74999942257995 }
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk2alg9jxc0",
+              "created": 1566873484037,
+              "text": "需要记忆一些常见的位运算公式",
+              "layout_left_offset": { "x": -14.999999776482639, "y": -11.24999983236205 }
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk2au1cr1c0",
+          "created": 1566873502727,
+          "text": "布隆过滤器",
+          "layout_mind_offset": { "x": -789.9999882280827, "y": 36.24999945983302 }
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk2b06pjt40",
+              "created": 1566873516111,
+              "text": "判断不存在 100% 准确"
+            },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk2b0v4y800", "created": 1566873517588, "text": "判断存在有误差" },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bwk2b0z5gug0",
+              "created": 1566873517831,
+              "text": "利用 Hash 函数将待判断 Key 对应到多个位上 "
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk2bvskxg00",
+          "created": 1566873584914,
+          "text": "LRU",
+          "layout_mind_offset": { "x": -674.9999899417162, "y": 47.49999929219473 }
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk2c1g23c00",
+              "created": 1566873597217,
+              "text": "HashTable + 双向链表"
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bwk2c1qsn1c0",
+              "created": 1566873597867,
+              "text": "get 和 set 都是 O(1) 的复杂度"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk2cpjjsm80",
+          "created": 1566873649671,
+          "text": "工具",
+          "layout_mind_offset": { "x": 614.9999908357858, "y": -69.99999895691883 }
+        },
+        "children": [
+          {
+            "data": { "id": "bwk2cy0rhi00", "created": 1566873668126, "text": "Google 搜索引擎" },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bwk2cz0gd9c0",
+              "created": 1566873670284,
+              "text": "iTerm2 + zsh 最强终端体验"
+            },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk2cz5cdag0", "created": 1566873670580, "text": "heyfocus.com" },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bwk2czc39hc0",
+              "created": 1566873670988,
+              "text": "IDEA + LeetCode Plugin"
+            },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk2czna5xc0", "created": 1566873671665, "text": "LeetCode" },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk3059dmkg0",
+          "created": 1566875486261,
+          "text": "复杂度",
+          "layout_mind_offset": { "x": 426.2499936483797, "y": -53.74999919906247 }
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk30dke23c0",
+              "created": 1566875504341,
+              "text": "时间复杂度",
+              "layout_right_offset": { "x": 261.2499961070718, "y": -4.999999925494194 }
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk30m1dmt40",
+                  "created": 1566875522782,
+                  "text": "O(1) 常数复杂度，最佳，比如 Hash 表、缓存等",
+                  "layout_right_offset": { "x": 466.2499930523336, "y": -77.49999884516001 }
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk30oaorsg0",
+                  "created": 1566875527699,
+                  "text": "O(log n) 仅次于常数复杂度，如二分查找、二叉搜索树等",
+                  "layout_right_offset": { "x": 527.4999921396377, "y": -82.49999877065409 }
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk30okx65s0",
+                  "created": 1566875528317,
+                  "text": "O(n) 线性复杂度，如大多数遍历操作",
+                  "layout_right_offset": { "x": 417.4999937787654, "y": -86.24999871477507 }
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk33iy7qio0",
+                  "created": 1566875751153,
+                  "text": "O(n^2) 双重 for 循环",
+                  "layout_right_offset": { "x": 357.4999946728349, "y": -84.9999987334013 }
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk33yqfcg00",
+                  "created": 1566875785511,
+                  "text": "O(2^n) 递归的时间复杂度",
+                  "layout_right_offset": { "x": 394.99999411404144, "y": -87.4999986961484 }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "bwk30ecyx9c0",
+              "created": 1566875506069,
+              "text": "空间复杂度",
+              "layout_right_offset": { "x": 265.4999954178931, "y": -69.99999910593033 }
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk34brad000",
+                  "created": 1566875813861,
+                  "text": "O(1) 原地操作",
+                  "layout_right_offset": { "x": 281.24999580904847, "y": -14.999999776482468 }
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk34cikgv40",
+                  "created": 1566875815510,
+                  "text": "O(n) 开辟线性辅助空间 ",
+                  "layout_right_offset": { "x": 316.2499952875079, "y": -8.74999986961484 }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk357hry740",
+          "created": 1566875882943,
+          "text": "数组",
+          "layout_mind_offset": { "x": 613.7499908544121, "y": -148.74999778345222 }
+        },
+        "children": [
+          {
+            "data": { "id": "bwk35g06q1k0", "created": 1566875901470, "text": "连续空间" },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bwk35gezza80",
+              "created": 1566875902366,
+              "text": "查找快、插入/删除结点慢 "
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk35sg1j680",
+          "created": 1566875928550,
+          "text": "链表",
+          "layout_mind_offset": { "x": 613.7499908544125, "y": -156.2499976716938 }
+        },
+        "children": [
+          {
+            "data": { "id": "bwk366wxj8g0", "created": 1566875960046, "text": "离散空间" },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bwk367lad4o0",
+              "created": 1566875961519,
+              "text": "查找慢，插入/删除结点快"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk36oh4uk80",
+          "created": 1566875998273,
+          "text": "栈",
+          "layout_mind_offset": { "x": 518.7499922700225, "y": -147.49999780207872 }
+        },
+        "children": [
+          {
+            "data": { "id": "bwk36u1vbvk0", "created": 1566876010411, "text": "先进后出" },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk373ht9ao0",
+          "created": 1566876030966,
+          "text": "队列",
+          "layout_mind_offset": { "x": 529.9999921023847, "y": -129.99999806284922 }
+        },
+        "children": [
+          {
+            "data": { "id": "bwk376g9y880", "created": 1566876037404, "text": "先进先出" },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk37dibc940",
+          "created": 1566876052764,
+          "text": "映射",
+          "layout_mind_offset": { "x": 612.4999908730389, "y": -99.99999850988391 }
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk37jr89740",
+              "created": 1566876066364,
+              "text": "K/V 键值对，Key 不重复"
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk37wfj6w00",
+          "created": 1566876093955,
+          "text": "集合",
+          "layout_mind_offset": { "x": 541.2499919347464, "y": -63.749999050051 }
+        },
+        "children": [
+          {
+            "data": { "id": "bwk3800ox7c0", "created": 1566876101765, "text": "Key 不重复" },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk386t9ko80",
+          "created": 1566876116553,
+          "text": "并查集",
+          "layout_mind_offset": { "x": 544.9999918788675, "y": -77.49999884516006 }
+        },
+        "children": [
+          {
+            "data": { "id": "bwk389l1vts0", "created": 1566876122587, "text": "站队问题" },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk38e29gu00", "created": 1566876132335, "text": "初始化" },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk38e6k7u00", "created": 1566876132595, "text": "查询、合并" },
+            "children": []
+          },
+          {
+            "data": { "id": "bwk38f1qjr40", "created": 1566876134480, "text": "路径压缩" },
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "template": "default",
+  "theme": "fresh-blue",
+  "version": "1.4.43"
+}

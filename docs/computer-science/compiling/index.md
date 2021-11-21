@@ -1,5 +1,5 @@
 ---
-title: 导论
+title: 学习资源
 group:
   order: 2
   title: 编译原理

@@ -1,0 +1,637 @@
+{
+  "root": {
+    "data": { "id": "09ddee0bafa1", "created": 1566876876, "text": "数据结构" },
+    "children": [
+      {
+        "data": {
+          "id": "bwk3iq3eids0",
+          "created": 1566876942167,
+          "text": "非受限线性表",
+          "layout": null
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk3nvlf0jc0",
+              "created": 1566877345961,
+              "text": "顺序结构",
+              "layout": null,
+              "expandState": "expand"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk3o54uggw0",
+                  "created": 1566877366726,
+                  "text": "数组",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3o87lknc0",
+                      "created": 1566877373423,
+                      "text": "支持 O(1) 的随机访问",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bwk3o8tj43s0",
+                      "created": 1566877374749,
+                      "text": "平均为 O(n) 的插入和删除",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bwk3o90pe680",
+                      "created": 1566877375183,
+                      "text": "警惕越界错误，导致 Stack Over Flow",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "bwk3nvzie3k0",
+              "created": 1566877346813,
+              "text": "链式结构",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk3qi0wqds0",
+                  "created": 1566877551515,
+                  "text": "单链表",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3rgq7i000",
+                      "created": 1566877627055,
+                      "text": "不支持随机访问，需要遍历去访问结点",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bwk3rhj7t540",
+                      "created": 1566877628809,
+                      "text": "插入和删除只需要移动指针，时间复杂度为 O(1)",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bwk3rhu0v2o0",
+                      "created": 1566877629463,
+                      "text": "每个结点需要额外的空间存储指针，需要的内存比数组大 ",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "bwk3qima2f40",
+                  "created": 1566877552807,
+                  "text": "双链表",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3uhz7qnk0",
+                      "created": 1566877864869,
+                      "text": "在单链表的基础上，除头结点外，每个结点多了一个存放前驱结点内存地址的指针",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "bwk3qivy2oo0",
+                  "created": 1566877553392,
+                  "text": "循环链表",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3vbainco0",
+                      "created": 1566877928679,
+                      "text": "尾节点指针指向头结点",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "bwk3qj4gz7c0",
+                  "created": 1566877553907,
+                  "text": "静态链表 ",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3vo6eqhc0",
+                      "created": 1566877956729,
+                      "text": "借助数组，伴随指向后继结点的指针",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk3iqn2nsw0",
+          "created": 1566876943356,
+          "text": "受限线性表",
+          "layout": null
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk3w0qoha00",
+              "created": 1566877984076,
+              "text": "栈",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk3w1lqjds0",
+                  "created": 1566877985954,
+                  "text": "顺序和链式都可以实现，先进后出",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk3wa0zk2g0",
+                  "created": 1566878004290,
+                  "text": "实际应用",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3wm4oph40",
+                      "created": 1566878030635,
+                      "text": "浏览器的前进与后退",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bwk3wn16raw0",
+                      "created": 1566878032601,
+                      "text": "括号匹配",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bwk3wn9zehc0",
+                      "created": 1566878033132,
+                      "text": "表达式计算 ",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "bwk3w3w2p5c0",
+              "created": 1566877990933,
+              "text": "堆",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk3x8p4feg0",
+                  "created": 1566878079760,
+                  "text": "大顶堆",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk3x9cjzc00",
+                  "created": 1566878081177,
+                  "text": "小顶堆",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk3x9ki5qo0",
+                  "created": 1566878081658,
+                  "text": "实际应用 ",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3xn6w1m80",
+                      "created": 1566878111310,
+                      "text": "找第 K 大元素",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "bwk3w43wbxs0",
+              "created": 1566877991406,
+              "text": "队列 ",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk3xx7qnj40",
+                  "created": 1566878133129,
+                  "text": "普通队列",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3y2ku0iw0",
+                      "created": 1566878144804,
+                      "text": "顺序和链式都可以实现，先进先出",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "bwk3xy3jbjs0",
+                  "created": 1566878135051,
+                  "text": "双边队列",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3yi4l97c0",
+                      "created": 1566878178651,
+                      "text": "入口和出口都可以进队和出队",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "bwk3xycr19k0",
+                  "created": 1566878135609,
+                  "text": "优先级队列",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3yweff6o0",
+                      "created": 1566878209721,
+                      "text": "根据优先级来出队",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "bwk3xylm7m80",
+                  "created": 1566878136145,
+                  "text": "实际应用 ",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3z71sueo0",
+                      "created": 1566878232902,
+                      "text": "LRU Cache",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "bwk3iqyurbk0",
+          "created": 1566876944068,
+          "text": "树与二叉树",
+          "layout": null
+        },
+        "children": [
+          {
+            "data": {
+              "id": "bwk3j8hsxxc0",
+              "created": 1566876982219,
+              "text": "二叉树",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk3jlggkb40",
+                  "created": 1566877010436,
+                  "text": "特点",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3k8bymbc0",
+                      "created": 1566877060230,
+                      "text": "顺序和链式都可以实现",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "bwk3k9hthq80",
+                      "created": 1566877062761,
+                      "text": "遍历方式",
+                      "layout": null
+                    },
+                    "children": [
+                      {
+                        "data": {
+                          "id": "bwk3kkg4fmw0",
+                          "created": 1566877086603,
+                          "text": "广度优先搜索",
+                          "layout": null
+                        },
+                        "children": []
+                      },
+                      {
+                        "data": {
+                          "id": "bwk3kkra9vk0",
+                          "created": 1566877087278,
+                          "text": "深度优先搜索 ",
+                          "layout": null
+                        },
+                        "children": [
+                          {
+                            "data": {
+                              "id": "bwk3l6u3ahs0",
+                              "created": 1566877135337,
+                              "text": "前序遍历",
+                              "layout": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "id": "bwk3l7i1fqg0",
+                              "created": 1566877136785,
+                              "text": "中序遍历",
+                              "layout": null
+                            },
+                            "children": []
+                          },
+                          {
+                            "data": {
+                              "id": "bwk3l7rwtbs0",
+                              "created": 1566877137382,
+                              "text": "后序遍历",
+                              "layout": null
+                            },
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "bwk3jlzlfi80",
+                  "created": 1566877011593,
+                  "text": "完全二叉树",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk3jm6v1k80",
+                  "created": 1566877012033,
+                  "text": "满二叉树",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk3jmdrkcw0",
+                  "created": 1566877012450,
+                  "text": "二叉搜索树",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk3jmvfsps0",
+                  "created": 1566877013519,
+                  "text": "平衡二叉搜索树",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "bwk3k1p5ofc0",
+                      "created": 1566877045791,
+                      "text": "红黑树",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "bwk3j91gzk00",
+              "created": 1566876983409,
+              "text": "哈夫曼树",
+              "layout": null
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "bwk3j9dbhag0",
+              "created": 1566876984125,
+              "text": "字典树",
+              "layout": null
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": { "id": "bwk3iram71c0", "created": 1566876944780, "text": "排序 ", "layout": null },
+        "children": [
+          {
+            "data": {
+              "id": "bwk3mdamnbc0",
+              "created": 1566877227762,
+              "text": "O(n^2)",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk3mxzbl680",
+                  "created": 1566877272791,
+                  "text": "冒泡排序",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk3myrlpls0",
+                  "created": 1566877274501,
+                  "text": "插入排序",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk3myvi4ew0",
+                  "created": 1566877274737,
+                  "text": "选择排序",
+                  "layout": null
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "bwk3mdswvts0",
+              "created": 1566877228868,
+              "text": "O(nlogn)",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk3n7tterc0",
+                  "created": 1566877294226,
+                  "text": "快速排序",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk3n84ehy80",
+                  "created": 1566877294866,
+                  "text": "归并排序",
+                  "layout": null
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "bwk3mdwic2o0",
+              "created": 1566877229085,
+              "text": "O(n)",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "bwk3neziezk0",
+                  "created": 1566877309808,
+                  "text": "桶排序",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk3nf9gqvc0",
+                  "created": 1566877310409,
+                  "text": "计数排序",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "bwk3nfe3s800",
+                  "created": 1566877310690,
+                  "text": "基数排序",
+                  "layout": null
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "template": "default",
+  "theme": "fresh-blue",
+  "version": "1.4.43"
+}

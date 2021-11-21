@@ -1,0 +1,259 @@
+{
+  "root": {
+    "data": {
+      "id": "edb2c69e60ad",
+      "created": 1637507139,
+      "text": "数据结构分类",
+      "expandState": "expand"
+    },
+    "children": [
+      {
+        "data": {
+          "id": "cfvju5m2tog0",
+          "created": 1637507145596,
+          "text": "一维数据结构",
+          "layout": null,
+          "expandState": "expand"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "cfvjux8xcoo0",
+              "created": 1637507205751,
+              "text": "基础",
+              "expandState": "expand",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "cfvjuzyf7ts0",
+                  "created": 1637507211646,
+                  "text": "数组 array",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "cfvjv3n7l680",
+                  "created": 1637507219676,
+                  "text": "字符串 string",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "cfvjv9lq5ug0",
+                  "created": 1637507232646,
+                  "text": "链表 linked list",
+                  "layout": null
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "cfvjvm7jx0g0",
+              "created": 1637507260088,
+              "text": "高级",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "cfvjvnixwhc0",
+                  "created": 1637507262953,
+                  "text": "栈 stack",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "cfvjwnen5sw0",
+                  "created": 1637507341057,
+                  "text": "队列 queue",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "cfvjwpts6iw0",
+                  "created": 1637507346326,
+                  "text": "双端队列 deque",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "cfvjwto9c5c0",
+                  "created": 1637507354699,
+                  "text": "集合 set",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "cfvjwvl0oyw0",
+                  "created": 1637507358857,
+                  "text": "映射 map",
+                  "layout": null
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "cfvju9j02yo0",
+          "created": 1637507154118,
+          "text": "二维数据结构",
+          "layout": null
+        },
+        "children": [
+          {
+            "data": {
+              "id": "cfvjx1siv4w0",
+              "created": 1637507372372,
+              "text": "基础",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "cfvjx5zcn140",
+                  "created": 1637507381491,
+                  "text": "树 tree",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "cfvjx8c1fds0",
+                  "created": 1637507386612,
+                  "text": "图 graph",
+                  "layout": null
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "cfvjx4jbjgg0",
+              "created": 1637507378345,
+              "text": "高级",
+              "layout": null
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "cfvjxcdzuq80",
+                  "created": 1637507395438,
+                  "text": "二叉搜索树 binary search tree",
+                  "layout": null
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "cfvjxlr2feo0",
+                      "created": 1637507415819,
+                      "text": "红黑树",
+                      "layout": null
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "id": "cfvjxp8m5ao0",
+                      "created": 1637507423411,
+                      "text": "AVL",
+                      "layout": null
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "cfvjxt3ogmo0",
+                  "created": 1637507431819,
+                  "text": "堆 heap",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "cfvjxv4h95c0",
+                  "created": 1637507436221,
+                  "text": "并查集 disjoint set",
+                  "layout": null
+                },
+                "children": []
+              },
+              {
+                "data": {
+                  "id": "cfvjxzfp6880",
+                  "created": 1637507445607,
+                  "text": "字典树 trie",
+                  "layout": null
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "cfvjuv35l800",
+          "created": 1637507201049,
+          "text": "特殊数据结构",
+          "layout": null
+        },
+        "children": [
+          {
+            "data": {
+              "id": "cfvjy57seyg0",
+              "created": 1637507458189,
+              "text": "位运算 bitwise",
+              "layout": null
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "cfvjyb779wg0",
+              "created": 1637507471214,
+              "text": "布隆过滤器 bloomfilter",
+              "layout": null
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "id": "cfvjyhhctwg0",
+              "created": 1637507484889,
+              "text": "LRU Cache",
+              "layout": null
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "template": "default",
+  "theme": "snow-compact",
+  "version": "1.4.43"
+}

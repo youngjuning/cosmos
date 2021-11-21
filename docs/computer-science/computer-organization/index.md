@@ -1,5 +1,5 @@
 ---
-title: 导论
+title: 学习资源
 nav:
   title: 计算机科学
   order: 1
