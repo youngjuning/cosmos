@@ -3,7 +3,7 @@ title: 千里之行，始于足下
 order: 0
 nav:
   order: 2
-  title: 力扣
+  title: 用力扣
 ---
 
 ## 工具

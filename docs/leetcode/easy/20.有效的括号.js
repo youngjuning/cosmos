@@ -7,8 +7,8 @@
 // @lc code=start
 const map = new Map([
   ['(', ')'],
-  ['[', ']'],
   ['{', '}'],
+  ['[', ']'],
 ]);
 /**
  * @param {string} s
@@ -20,7 +20,7 @@ const isValid = function (s) {
     const c = s.charAt(i);
     if (map.has(c)) {
       stack.push(c);
-    } else if (map.get(stack.pop()) !== c) {
+    } else if (c !== map.get(stack.pop())) {
       return false;
     }
   }
