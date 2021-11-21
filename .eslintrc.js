@@ -5,5 +5,6 @@ module.exports = {
     'func-names': 0,
     'no-bitwise': ['error', { allow: ['~'] }],
     'no-param-reassign': 0,
+    'no-multi-assign': 0,
   },
 };

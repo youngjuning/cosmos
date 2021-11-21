@@ -38,6 +38,12 @@ nav:
 
 ## 题单
 
+### 标签
+
+- [数组 array](https://leetcode-cn.com/tag/array/problemset/)
+- [分治 divide-and-conquer](https://leetcode-cn.com/tag/divide-and-conquer/problemset/)
+- [动态规划 dynamic-programming](https://leetcode-cn.com/tag/dynamic-programming/problemset/)
+
 ### LeetBook
 
 - [链表](https://leetcode-cn.com/leetbook/detail/linked-list/)
