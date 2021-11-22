@@ -8,6 +8,43 @@ nav:
 
 > 用力扣，越能 coding，争取早日成为合格的力扣战士，实现算法自由。正经的算法与数据结构学习笔记请转到计算机科学部分。
 
+## 刷题方法
+
+### 切题四件套
+
+- 读清题意
+- 可能的解法
+  - 比较时间复杂度、空间复杂度和圈复杂度
+- 写代码
+- 列举几个测试用例
+
+### 五遍刷题法
+
+**第一遍：**
+
+- 5 分钟：读题 + 思考
+- 直接看解法：注意！多解法，比较解法优劣
+- 背诵默写好的解法
+
+**第二遍：**
+
+- 马上自己写——> LeetCode 提交
+- 多种解法比较、体会，——>优化
+
+**第三遍：**
+
+- 过了一天，再重复做题
+- 不熟练的题目进行专项训练
+
+**第四遍：**
+
+- 过了一周，反复回来练习相同题目
+- 不熟练的题目进行专项训练
+
+**第五遍：**
+
+- 面试前一周或者两周恢复性训练
+
 ## 工具
 
 - [vscode-leetcode](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode)：在 vscode 中刷题的利器
@@ -35,6 +72,7 @@ nav:
 - [链表](https://leetcode-cn.com/leetbook/detail/linked-list/)
 - [二分查找](https://leetcode-cn.com/leetbook/detail/binary-search/)
 - [贪心算法](https://leetcode-cn.com/leetbook/detail/greedy/)
+- [广度优先搜索](https://leetcode-cn.com/leetbook/detail/bfs/)
 
 ### 热题
 
