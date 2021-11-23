@@ -6,5 +6,6 @@ module.exports = {
     'no-bitwise': ['error', { allow: ['~'] }],
     'no-param-reassign': 0,
     'no-multi-assign': 0,
+    'no-continue': 0,
   },
 };
