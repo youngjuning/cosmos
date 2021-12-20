@@ -9,7 +9,7 @@ group:
 
 ### 《编译原理》（龙书）
 
-![](https://cdn.jsdelivr.net/gh/youngjuning/images/202111112347539.png)
+![](https://raw.githubusercontent.com/youngjuning/images/main/202111112347539.png)
 
 本书深入讨论了编译器设计的重要主题，包括词法分析、语法分析、语法制导分析、类型检查、运行环境、中间代码生成、代码生成、代码优化等。并在最后两章讨论了实现编译器的一些编程问题和几个编译器实例。
 
@@ -17,6 +17,6 @@ group:
 
 ### 《现代编译原理：Ｃ语言描述 》（虎书）
 
-![](https://cdn.jsdelivr.net/gh/youngjuning/images/202111112351441.png)
+![](https://raw.githubusercontent.com/youngjuning/images/main/202111112351441.png)
 
 在编译领域，“虎书”和“龙书”齐名。虎书出版的比较晚，与“龙书”相比，内容上增加了数据流分析、循环优化、内存管理等内容。上图为上个月才出版的修订版。

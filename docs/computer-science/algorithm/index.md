@@ -10,13 +10,13 @@ order: 1
 
 ### 学习 JavaScript 数据结构与算法（第 3 版）
 
-[![](https://cdn.jsdelivr.net/gh/youngjuning/images/202111171153751.png)](https://book.douban.com/subject/33441631/)
+[![](https://raw.githubusercontent.com/youngjuning/images/main/202111171153751.png)](https://book.douban.com/subject/33441631/)
 
 本书首先介绍了 JavaScript 语言的基础知识（包括 ECMAScript 和 T ypeScript），其次讨论了数组、栈、队列、双端队列和链表等重要的数据结构，随后分析了集合、字典和散列表的工作原理，接下来阐述了递归的原理、什么是树以及二叉堆和堆排序，然后介绍了图、DFS 和 BFS 算法、各种排序（冒泡排序、选择排序、插入排序、归并排序、快速排序、计数排序、桶排序和基数排序）和搜索（顺序搜索、二分搜索和内插搜索）算法以及随机算法，接着介绍了分而治之、动态规划、贪心算法和回溯算法等高级算法以及函数式编程，最后还介绍了如何计算算法的复杂度。
 
 ### 大话数据结构
 
-[![](https://cdn.jsdelivr.net/gh/youngjuning/images/202111171155910.png)](https://book.douban.com/subject/6424904/)
+[![](https://raw.githubusercontent.com/youngjuning/images/main/202111171155910.png)](https://book.douban.com/subject/6424904/)
 
 本书为超级畅销书《大话设计模式》作者程杰潜心三年推出的扛鼎之作！以一个计算机教师教学为场景，讲解数据结构和相关算法的知识。通篇以一种趣味方式来叙述，大量引用了各种各样的生活知识来类比，并充分运用图形语言来体现抽象内容，对数据结构所涉及到的一些经典算法做到逐行分析、多算法比较。与市场上的同类数据结构图书相比，本书内容趣味易读，算法讲解细致深刻，是一本非常适合自学的读物。
 

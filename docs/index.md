@@ -1,7 +1,7 @@
 ---
 title: 首页
 hero:
-  image: https://cdn.jsdelivr.net/gh/youngjuning/images/202111150030039.png
+  image: https://raw.githubusercontent.com/youngjuning/images/main/202111150030039.png
   title: 洛竹宇宙
   desc: May the Force be with you.
   actions:
